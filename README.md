@@ -1,15 +1,11 @@
-# Amazon CaseStudy
-
-## Amazon Case Study_DSA
+# Amazon CaseStudy_DSA
 This is where I started my portfolio building while taking my Data Analysis class with The incubator Hub.
 I have learnt a number of things starting from Ms Excel, SQL, Power BI and now to my Portfolio Building
 
-## Project Topic: Amazon Products analysis
-
-### Project Overview: 
+## Project Topic: Amazon Products analysis:
 
 ### Tools Used:
-- Ms Excel [Download Here]
+- Ms Excel [Download Here](http"C:\Users\USER\Downloads\DSA Capstone Project Files\Amazon case study.xlsx")
   - For Data Cleaning
   - For Data Extraction
     
