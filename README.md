@@ -4,8 +4,8 @@ I have learnt a number of things starting from Ms Excel, SQL, Power BI and now t
 
 ## Project Topic: Amazon Products analysis:
 
-### Tools Used:
-- Ms Excel [Download Here](http"C:\Users\USER\Downloads\DSA Capstone Project Files\Amazon case study.xlsx")
+### Tools Used
+- Ms Excel [Download Here](https://www.microsoft.com)
   - For Data Cleaning
   - For Data Extraction
     
