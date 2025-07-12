@@ -5,7 +5,7 @@ I have learnt a number of things starting from Ms Excel, SQL, Power BI and now t
 ## Project Topic: Amazon Products analysis:
 
 ### Project Overview
-This Data Analysis project aims to generate customers feedback on products checking to see which of the products meets the customer. By analysing the data received we seek to gather enough insights to make decision which will enable us tell convinncing stories with proof and to know the best performance from our data.
+This Data Analysis project aims to generate customers feedback on products checking to see which of the products meets the customer needs by checking the products ratings, reviews, average discount prices, average discount percentage etc. By analysing the data received we seek to gather enough insights to make decision which will enable us tell convinncing stories with proof and to know the best performance from our data.
 
 ### Tools Used
 - Ms Excel [Download Here](https://www.microsoft.com)
