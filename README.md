@@ -37,6 +37,8 @@ This involves the exploring of data to answer some questions pressing questions 
  - How many categories have products with the highest discount?
  - Identify Top 5 products in terms of rating?	
 
-### Analysis
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21026455/Amazon.case.study.xlsx)
+## Analysis
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21194788/Amazon.case.study.xlsx)
+
+
 
